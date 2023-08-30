@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Brandshaw.cloud</title>
+    <link>/</link>
+    <description>Recent content on Brandshaw.cloud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Aug 2023 14:27:42 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Roles in Europe!</title>
+      <link>/posts/first/</link>
+      <pubDate>Mon, 28 Aug 2023 14:27:42 +0100</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>Last year I was fortunate enough to join WPP as the Head of Cloud Hub, our team exists to deliver cloud to the WPP group of companies supporting their businesses and end clients. We create fantastic products for our customers and clients to use, we make the cloud more accessible, keep everyone safe, and we do that by building an extraordinary team.
+I’m delighted to share that we’ve just opened 16 new roles in WPP on our Cloud Hub team in Bucharest and London!</description>
+    </item>
+    
+    <item>
+      <title>Second file</title>
+      <link>/posts/second/</link>
+      <pubDate>Mon, 28 Aug 2023 14:27:42 +0100</pubDate>
+      
+      <guid>/posts/second/</guid>
+      <description>This is the first heading This is the second heading </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium, esse temporibus! Harum obcaecati dignissimos inventore, odio labore doloribus velit ipsa. Reiciendis sequi libero, magni culpa saepe incidunt ipsa accusantium eligendi.</description>
+    </item>
+    
+    
+    <item>
+      <title>Contact Me</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Your Email
+Message
+Submit</description>
+    </item>
+    
+  </channel>
+</rss>
